@@ -5,8 +5,8 @@ This repository will host a small prototype for evaluating the **stability of po
 1) privacy-preserving data substitutes (when microdata cannot be shared), and  
 2) AI/LLM-assisted steps (e.g., summarization, coding, or evidence extraction).
 
-## Planned artifacts (to be uploaded this weekend)
-- `docs/WritingSample-Young.pdf` (2–4 pages): PPRP + integrity checks (estimate/inference/decision stability)
+## Artifacts
+- `docs/WritingSample-Young.pdf`: A Privacy-Preserving Replication Pack for Environmental Health & Development Research
 - `notebooks/demo.ipynb`: end-to-end demo producing one table/figure
 - `results/`: example outputs (table/figure) with short interpretation notes
 
