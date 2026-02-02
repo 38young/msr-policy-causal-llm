@@ -14,4 +14,4 @@ This repository will host a small prototype for evaluating the **stability of po
 Policy analysis increasingly uses LLM-assisted workflows and confidential data. This project focuses on auditability, reproducibility, and robustness diagnostics for decision-relevant conclusions.
 
 ## Status
-Repo initialized. Artifacts will be added by Feb.8, 2026
+Writing sample is available. Additional demo artifacts will be added by Feb 8, 2026.
